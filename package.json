@@ -1,0 +1,11 @@
+{
+  "name": "ejercicio_con_limite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\u001bG\u001b\u001b@@Gerardo Rivera",
+  "license": "ISC"
+}
