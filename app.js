@@ -1,4 +1,5 @@
 const { crearArchivo } = require("./helpers/multiplicacion");
+console.clear();
 const [, , arg3 = 'base=5',] = process.argv;
 const [, , ,arg4 = 'limite=20'] = process.argv;
 console.log(process.argv);
